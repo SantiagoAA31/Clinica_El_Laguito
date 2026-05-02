@@ -1,8 +1,7 @@
 package co.edu.uptc.clinica.domain;
 
 import java.time.LocalDateTime;
-import co.edu.uptc.clinica.domain.Doctor;
-import co.edu.uptc.clinica.domain.Patient;
+
 
 public class MedicalAppoinmet {
 	
