@@ -2,6 +2,27 @@ package co.edu.uptc.clinica.domain;
 
 import co.edu.uptc.clinica.enums.TypeDocID;
 
+/**
+ * Nombre de la clase: Doctor
+ *
+ * <p>[]</p>
+ *
+ * <p><b>Responsabilidades:</b></p>
+ * <ul>
+ *   <li>[Responsabilidad 1]</li>
+ *   <li>[Responsabilidad 2]</li>
+ * </ul>
+ *
+ * <p><b>Notas:</b></p>
+ * <ul>
+ *   <li>[Consideraciones importantes]</li>
+ * </ul>
+ *
+ * @author david
+ * @version 1.0
+ * @since 6/05/2026
+ */
+
 public class Doctor {
 	private TypeDocID identificationType;
 	private int medicalId;
