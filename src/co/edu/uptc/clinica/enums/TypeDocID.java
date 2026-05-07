@@ -1,9 +1,30 @@
-package co.edu.uptc.clinica.enums;
+	package co.edu.uptc.clinica.enums;
 
+/**
+ * Nombre de la clase: TypeDocID
+ *
+ * <p>[Enumuerador encargado de denotar los distintos tipos del documento de identidad]</p>
+ *
+ * <p><b>Responsabilidades:</b></p>
+ * <ul>
+ *   <li>[Responsabilidad 1]</li>
+ *   <li>[Responsabilidad 2]</li>
+ * </ul>
+ *
+ * <p><b>Notas:</b></p>
+ * <ul>
+ *   <li>[Consideraciones importantes]</li>
+ * </ul>
+ *
+ * @author david
+ * @version 1.0
+ * @since 6/05/2026
+ */
+	
 public enum TypeDocID {
 	
-	// Se crean las constantes del enumerador y entre los parentesis -
-	//el "nombre oficial" de cada tipo de documento
+
+	
 	
 	
 	CC("Cédula de ciudadanía"),
